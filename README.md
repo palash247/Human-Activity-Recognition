@@ -9,10 +9,11 @@ Features which were most informative was mean and standard deviation.
 The sensors which are used are Accelerometer and Gyroscope.
 
 ## To Do:
-1. Try using RNN
-2. Update code to use HyperIMU's official Python code.
-3. Add more activities
-4. Try to generelise the model for different persons.
-5. Be less lazy.
+1. Include requirements.
+2. Try using RNN
+3. Update code to use HyperIMU's official Python code.
+4. Add more activities
+5. Try to generelise the model for different persons.
+6. Be less lazy.
 
 You can stick the phone wherever you want on your body while recordint training data. Just make sure you stick it at same position with same orientation while testing also.
